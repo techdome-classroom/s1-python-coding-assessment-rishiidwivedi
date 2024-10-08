@@ -26,4 +26,4 @@ def decode_s( s: str, p: str) -> bool:
     # The result is stored in dp[m][p], whether the entire s matches the entire p
     return dp[m][p]
   
-        return False
+       
